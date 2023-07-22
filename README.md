@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaawwnn&label=Profile%20views&color=0e75b6&style=flat" alt="shaawwnn" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaawwnn" alt="shaawwnn" /></a> </p>
-
 - 🌱 I’m currently learning **NextJS, Go**
 
 - 👨‍💻 All of my projects are available at [https://shawn-two.vercel.app/](https://shawn-two.vercel.app/)
